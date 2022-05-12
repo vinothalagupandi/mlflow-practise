@@ -1,0 +1,15 @@
+artifact_uri: ./experiment/1/c6929cdd3d6b4bb283123582768e45d4/artifacts
+end_time: 1652341952938
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: c6929cdd3d6b4bb283123582768e45d4
+run_uuid: c6929cdd3d6b4bb283123582768e45d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652341950271
+status: 3
+tags: []
+user_id: vinothalagupandi
